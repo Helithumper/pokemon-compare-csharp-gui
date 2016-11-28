@@ -1,0 +1,6 @@
+/home/peyton/Documents/gitworkspace/pokemon-compare-csharp-gui/pokemon-compare-csharp-gui/pokemon-compare-csharp-gui/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/peyton/Documents/gitworkspace/pokemon-compare-csharp-gui/pokemon-compare-csharp-gui/pokemon-compare-csharp-gui/obj/x86/Debug/pokemoncomparecsharpgui.gtk-gui.gui.stetic
+/home/peyton/Documents/gitworkspace/pokemon-compare-csharp-gui/pokemon-compare-csharp-gui/pokemon-compare-csharp-gui/bin/Debug/pokemon-compare-csharp-gui.exe.mdb
+/home/peyton/Documents/gitworkspace/pokemon-compare-csharp-gui/pokemon-compare-csharp-gui/pokemon-compare-csharp-gui/bin/Debug/pokemon-compare-csharp-gui.exe
+/home/peyton/Documents/gitworkspace/pokemon-compare-csharp-gui/pokemon-compare-csharp-gui/pokemon-compare-csharp-gui/obj/x86/Debug/pokemon-compare-csharp-gui.exe
+/home/peyton/Documents/gitworkspace/pokemon-compare-csharp-gui/pokemon-compare-csharp-gui/pokemon-compare-csharp-gui/obj/x86/Debug/pokemon-compare-csharp-gui.exe.mdb
